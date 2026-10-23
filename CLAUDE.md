@@ -10,7 +10,9 @@ Format of `posts/<YYYY-MM-DD-HHMM-slug>/post.json` (the folder name sorts by pub
   "media_type": "photo",
   "pin": false }
 ```
-- `media` is a file in the same folder (PNG/JPG under 5 MB, MP4 under 20 MB) or null. `youtube` only with a video.
+- Folder name exactly `YYYY-MM-DD-HHMM-slug`, slug in lower-case a-z, 0-9 and `-` only. Anything else is rejected by the publisher.
+- `media` is a plain file name in the same folder (letters, digits, `-` or `_`, ending in `.png`, `.jpg`, `.jpeg` or `.mp4`; no `/`, no `..`) or null; PNG/JPG under 5 MB, MP4 under 20 MB; `media_type` must match (`photo` for png/jpg, `video` for mp4). `text` holds only `ar` and `en` strings (each at most 4000 characters), `x` at most 280. `youtube` is postponed by the owner: do not use it.
+- Telegram posts go only to channels the owner approved; a long caption (over 1024 characters) is sent as the image followed by the text.
 - Arabic first. Facebook gets both languages in one post; X gets Arabic (≤ 280 characters: keep `text.ar` short or add `"x": "..."`).
 - Red lines (enforced in code by the publisher, social/src/redlines.js in jana1234149/matrix-exchange): no profit promises,
   no price talk or buy/sell advice (MTIX included), no wallet addresses, no requests for passwords/codes/keys, no links
