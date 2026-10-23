@@ -22,7 +22,10 @@ Format of `posts/<YYYY-MM-DD-HHMM-slug>/post.json` (the folder name sorts by pub
   word for word from social/kb/answers.md (or kb.md) in jana1234149/matrix-exchange; any new wording on these subjects is
   blocked. Do not write prices at all, and for security notices or MTIX copy the approved sentence (e.g. the SECURITY,
   MTIX and MTIX-SCAM answers).
+- A post that mentions passwords/codes/keys, any price, MTIX or buying/selling a coin ANYWHERE must be made ONLY of approved
+  sentences (copied word for word) plus emoji and official links: one new sentence anywhere blocks the whole post.
 - A post that has started publishing is never re-sent after an edit: to correct a published post, make a NEW folder.
+  Deleting a started folder cancels whatever it has not sent yet.
 - Every contest post ends with: «المسابقة تعليمية تجريبية وليست نصيحة استثمارية» / "An educational demo contest, not investment advice."
 - `published-cloud.json` records what Claude published to X and YouTube: `{ "<folder>": { "x": "<url or error>", "youtube": "..." } }`.
 - Never delete or rewrite a post whose time has passed.
