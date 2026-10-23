@@ -18,6 +18,11 @@ Format of `posts/<YYYY-MM-DD-HHMM-slug>/post.json` (the folder name sorts by pub
   no price talk or buy/sell advice (MTIX included), no wallet addresses, no requests for passwords/codes/keys, no links
   or @accounts except matrixcex.com, info@matrixgroups.net, @MatrixCex_bot and the official pages. Facts only from
   social/kb/kb.md in jana1234149/matrix-exchange: never invent dates, prizes, fees, partners or features.
+- A sentence that mentions passwords/codes/keys/recovery phrases, any price, or MTIX is published ONLY if it is copied
+  word for word from social/kb/answers.md (or kb.md) in jana1234149/matrix-exchange; any new wording on these subjects is
+  blocked. Do not write prices at all, and for security notices or MTIX copy the approved sentence (e.g. the SECURITY,
+  MTIX and MTIX-SCAM answers).
+- A post that has started publishing is never re-sent after an edit: to correct a published post, make a NEW folder.
 - Every contest post ends with: «المسابقة تعليمية تجريبية وليست نصيحة استثمارية» / "An educational demo contest, not investment advice."
 - `published-cloud.json` records what Claude published to X and YouTube: `{ "<folder>": { "x": "<url or error>", "youtube": "..." } }`.
 - Never delete or rewrite a post whose time has passed.
