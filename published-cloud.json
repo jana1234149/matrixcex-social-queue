@@ -1,1 +1,32 @@
-{}
+{
+ "2026-10-27-1200-tutorial-01-account": {
+  "youtube": "https://youtu.be/DwiAhPDJiHc"
+ },
+ "2026-10-27-1900-tutorial-02-kyc": {
+  "youtube": "https://youtu.be/imkXt5yFOk4"
+ },
+ "2026-10-28-1200-tutorial-03-2fa": {
+  "youtube": "https://youtu.be/CZLh2HWdt4U"
+ },
+ "2026-10-28-1900-tutorial-04-first-deposit": {
+  "youtube": "https://youtu.be/fjHgvVPjyKI"
+ },
+ "2026-10-29-1200-tutorial-05-first-withdrawal": {
+  "youtube": "https://youtu.be/ldSGDm2KvEY"
+ },
+ "2026-10-29-1900-tutorial-06-p2p-merchant": {
+  "youtube": "https://youtu.be/LaqGOLvmJMA"
+ },
+ "2026-10-30-1200-tutorial-07-funding-methods": {
+  "youtube": "https://youtu.be/he7sz1dSuDw"
+ },
+ "2026-10-30-1900-tutorial-08-spot": {
+  "youtube": "https://youtu.be/6wuPF2U6UHY"
+ },
+ "2026-10-31-1200-tutorial-10-convert": {
+  "youtube": "https://youtu.be/UaW7sv7yoIA"
+ },
+ "2026-10-31-1900-tutorial-11-referral": {
+  "youtube": "https://youtu.be/OleR41ou6Ag"
+ }
+}
