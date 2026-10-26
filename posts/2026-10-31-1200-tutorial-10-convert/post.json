@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-31-1200-tutorial-10-convert",
+  "at": "2026-10-31T12:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🎓 دليل استخدام ماتركس إكستشينج\nالدرس 10: التحويل السريع بين العملات\n\nمن خانة «من» إلى خانة «إلى»، ثم المراجعة والتأكيد، كل ذلك في شاشة واحدة.\n\nلقطات حقيقية من المنصة بحساب تجريبي.\n🔗 matrixcex.com",
+    "en": "🎓 Matrix Exchange user guide\nLesson 10: Instant convert\n\nChoose «from» and «to», review, confirm: all on one screen.\n\nReal screens from the platform with a demo account (Arabic voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-10.mp4",
+  "media_type": "video",
+  "pin": false
+}

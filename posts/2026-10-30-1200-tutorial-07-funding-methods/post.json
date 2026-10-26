@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-30-1200-tutorial-07-funding-methods",
+  "at": "2026-10-30T12:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🎓 دليل استخدام ماتركس إكستشينج\nالدرس 07: طرق إضافة الأموال الثلاث\n\nP2P بالليرة السورية بضمان المنصة، إيداع العملات الرقمية، والإيداع البنكي (قريباً).\n\nلقطات حقيقية من المنصة بحساب تجريبي.\n🔗 matrixcex.com",
+    "en": "🎓 Matrix Exchange user guide\nLesson 07: Three ways to fund your account\n\nP2P in Syrian pounds with platform escrow, crypto deposits, and bank deposits (coming soon).\n\nReal screens from the platform with a demo account (Arabic voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-07.mp4",
+  "media_type": "video",
+  "pin": false
+}

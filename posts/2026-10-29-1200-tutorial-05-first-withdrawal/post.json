@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-29-1200-tutorial-05-first-withdrawal",
+  "at": "2026-10-29T12:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🎓 دليل استخدام ماتركس إكستشينج\nالدرس 05: السحب أول مرة\n\nالشبكة والعنوان والمبلغ، وكيف تتابع حالة السحب في السجل.\n\nلقطات حقيقية من المنصة بحساب تجريبي.\n🔗 matrixcex.com",
+    "en": "🎓 Matrix Exchange user guide\nLesson 05: Your first withdrawal\n\nNetwork, address and amount, and how to follow the withdrawal in your history.\n\nReal screens from the platform with a demo account (Arabic voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-05.mp4",
+  "media_type": "video",
+  "pin": false
+}

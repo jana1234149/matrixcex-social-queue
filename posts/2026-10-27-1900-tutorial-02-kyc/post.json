@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-27-1900-tutorial-02-kyc",
+  "at": "2026-10-27T19:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🎓 دليل استخدام ماتركس إكستشينج\nالدرس 02: توثيق الهوية\n\nصورة الوثيقة، صورة شخصية متحركة، والمراجعة. وماذا يفتح لك كل مستوى.\n\nلقطات حقيقية من المنصة بحساب تجريبي.\n🔗 matrixcex.com",
+    "en": "🎓 Matrix Exchange user guide\nLesson 02: Identity verification (KYC)\n\nDocument photo, a short selfie video and the review, plus what each level unlocks.\n\nReal screens from the platform with a demo account (Arabic voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-02.mp4",
+  "media_type": "video",
+  "pin": false
+}

@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-28-1200-tutorial-03-2fa",
+  "at": "2026-10-28T12:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🎓 دليل استخدام ماتركس إكستشينج\nالدرس 03: تفعيل المصادقة الثنائية\n\nاربط حسابك بتطبيق Google Authenticator خلال دقيقة، وهي مطلوبة قبل أول سحب.\n\nلقطات حقيقية من المنصة بحساب تجريبي.\n🔗 matrixcex.com",
+    "en": "🎓 Matrix Exchange user guide\nLesson 03: Turning on two-factor authentication\n\nLink your account to Google Authenticator in a minute; it is required before your first withdrawal.\n\nReal screens from the platform with a demo account (Arabic voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-03.mp4",
+  "media_type": "video",
+  "pin": false
+}

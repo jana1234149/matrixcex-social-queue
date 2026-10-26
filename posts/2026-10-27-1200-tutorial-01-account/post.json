@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-27-1200-tutorial-01-account",
+  "at": "2026-10-27T12:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🎓 دليل استخدام ماتركس إكستشينج\nالدرس 01: فتح حساب جديد\n\nخطوة بخطوة: البريد الإلكتروني وبلد الإقامة، رابط التفعيل، ثم تسجيل الدخول.\n\nلقطات حقيقية من المنصة بحساب تجريبي.\n🔗 matrixcex.com",
+    "en": "🎓 Matrix Exchange user guide\nLesson 01: Creating your account\n\nStep by step: e-mail and country of residence, the activation link, then signing in.\n\nReal screens from the platform with a demo account (Arabic voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-01.mp4",
+  "media_type": "video",
+  "pin": false
+}

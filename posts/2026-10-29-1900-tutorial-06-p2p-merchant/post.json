@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-29-1900-tutorial-06-p2p-merchant",
+  "at": "2026-10-29T19:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🎓 دليل استخدام ماتركس إكستشينج\nالدرس 06: كيف تصبح تاجر P2P معتمداً\n\nمركز P2P، إضافة حساب الدفع، طلب التاجر المعتمد، ونشر أول إعلان.\n\nلقطات حقيقية من المنصة بحساب تجريبي.\n🔗 matrixcex.com",
+    "en": "🎓 Matrix Exchange user guide\nLesson 06: Becoming an approved P2P merchant\n\nThe P2P center, adding a payment account, the merchant application and posting your first ad.\n\nReal screens from the platform with a demo account (Arabic voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-06.mp4",
+  "media_type": "video",
+  "pin": false
+}

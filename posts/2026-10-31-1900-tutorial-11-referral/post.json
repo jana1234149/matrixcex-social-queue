@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-31-1900-tutorial-11-referral",
+  "at": "2026-10-31T19:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🎓 دليل استخدام ماتركس إكستشينج\nالدرس 11: الإحالات والمكافآت\n\nانسخ رابط دعوتك، وتابع من سجّل من أصدقائك ومكافآتك.\n\nلقطات حقيقية من المنصة بحساب تجريبي.\n🔗 matrixcex.com",
+    "en": "🎓 Matrix Exchange user guide\nLesson 11: Referrals and rewards\n\nCopy your invite link and follow which friends joined and your rewards.\n\nReal screens from the platform with a demo account (Arabic voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-11.mp4",
+  "media_type": "video",
+  "pin": false
+}

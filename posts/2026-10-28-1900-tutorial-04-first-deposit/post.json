@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-28-1900-tutorial-04-first-deposit",
+  "at": "2026-10-28T19:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🎓 دليل استخدام ماتركس إكستشينج\nالدرس 04: الإيداع أول مرة\n\nاختر الشبكة، أنشئ عنوان الإيداع الخاص بك، وتابع التأكيدات حتى يصل رصيدك.\n\nلقطات حقيقية من المنصة بحساب تجريبي.\n🔗 matrixcex.com",
+    "en": "🎓 Matrix Exchange user guide\nLesson 04: Your first deposit\n\nChoose the network, create your own deposit address and follow the confirmations until your balance arrives.\n\nReal screens from the platform with a demo account (Arabic voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-04.mp4",
+  "media_type": "video",
+  "pin": false
+}
