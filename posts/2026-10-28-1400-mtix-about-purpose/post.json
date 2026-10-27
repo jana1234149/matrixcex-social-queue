@@ -1,0 +1,17 @@
+{
+  "id": "2026-10-28-1400-mtix-about-purpose",
+  "at": "2026-10-28T14:00:00+03:00",
+  "targets": [
+    "facebook:mtix",
+    "x:mtix",
+    "telegram:-1001549262082",
+    "telegram:-1001413343814"
+  ],
+  "text": {
+    "ar": "🪙 MTIX هي عملة مجموعة ماتركس على شبكة BNB Smart Chain.\n🏥 الهدف منها أن تكون وسيلة دفع لخدمات طبية في مستشفيات تتعاقد معها ماتركس.\n🤝 تعمل مجموعة ماتركس في تنسيق علاج زراعة الأعضاء منذ عام 2015.\n🔗 matrixcex.com",
+    "en": "🪙 MTIX is the coin of Matrix Groups on BNB Smart Chain.\n🏥 Its purpose is to be a means of payment for medical services in hospitals Matrix contracts with.\n🤝 Matrix Groups has worked in coordinating organ transplant treatment since 2015.\n🔗 matrixcex.com"
+  },
+  "media": null,
+  "media_type": null,
+  "pin": false
+}
