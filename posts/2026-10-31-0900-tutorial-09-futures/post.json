@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-31-0900-tutorial-09-futures",
+  "at": "2026-10-31T09:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🎓 دليل استخدام ماتركس إكستشينج\nالدرس 09: العقود الآجلة (تجريبي)\n\nالبدء التجريبي، اختيار العقد والرافعة، فتح المركز مع جني الربح ووقف الخسارة، ثم الإغلاق. بأموال تجريبية فقط.\n\nلقطات حقيقية من المنصة بحساب تجريبي.\n🔗 matrixcex.com",
+    "en": "🎓 Matrix Exchange user guide\nLesson 09: Futures (demo)\n\nStart demo trading, choose the contract and leverage, open a position with take profit and stop loss, then close it. Demo money only.\n\nReal screens from the platform with a demo account (Arabic voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-09.mp4",
+  "media_type": "video",
+  "pin": false
+}
