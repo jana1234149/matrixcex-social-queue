@@ -48,5 +48,14 @@
  },
  "2026-10-31-0900-tutorial-09-futures": {
   "youtube": "https://youtu.be/3SCOM5EXYz0"
+ },
+ "youtube-en": {
+  "playlist": "MatrixCEX User Guide | Step by Step",
+  "01-signup": "https://youtu.be/daIji8tIL2E",
+  "01-signup-short": "https://youtube.com/shorts/1SdomSGnKNw",
+  "02-kyc": "https://youtu.be/6VhwrzbDTd0",
+  "02-kyc-short": "https://youtube.com/shorts/Hou8L5N34qQ",
+  "03-2fa": "https://youtu.be/pnj5tnuBYHw",
+  "03-2fa-short": "https://youtube.com/shorts/Ytz6GF2wIR4"
  }
 }
