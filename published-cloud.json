@@ -1,61 +1,75 @@
 {
- "2026-10-27-1200-tutorial-01-account": {
-  "youtube": "https://youtu.be/DwiAhPDJiHc"
- },
- "2026-10-27-1900-tutorial-02-kyc": {
-  "youtube": "https://youtu.be/imkXt5yFOk4"
- },
- "2026-10-28-1200-tutorial-03-2fa": {
-  "youtube": "https://youtu.be/CZLh2HWdt4U"
- },
- "2026-10-28-1900-tutorial-04-first-deposit": {
-  "youtube": "https://youtu.be/fjHgvVPjyKI"
- },
- "2026-10-29-1200-tutorial-05-first-withdrawal": {
-  "youtube": "https://youtu.be/ldSGDm2KvEY"
- },
- "2026-10-29-1900-tutorial-06-p2p-merchant": {
-  "youtube": "https://youtu.be/LaqGOLvmJMA"
- },
- "2026-10-30-1200-tutorial-07-funding-methods": {
-  "youtube": "https://youtu.be/he7sz1dSuDw"
- },
- "2026-10-30-1900-tutorial-08-spot": {
-  "youtube": "https://youtu.be/6wuPF2U6UHY"
- },
- "2026-10-31-1200-tutorial-10-convert": {
-  "youtube": "https://youtu.be/UaW7sv7yoIA"
- },
- "2026-10-31-1900-tutorial-11-referral": {
-  "youtube": "https://youtu.be/OleR41ou6Ag"
- },
- "youtube-shorts": {
-  "feature-p2p": "https://youtube.com/shorts/y_JcgoXh2SQ",
-  "feature-security": "https://youtube.com/shorts/U_hACh1Cqhw",
-  "feature-contest": "https://youtube.com/shorts/5eUTudDSJfY",
-  "feature-tools": "https://youtube.com/shorts/8ribt6ItTM0",
-  "lesson-01": "https://youtube.com/shorts/LcivuiLjs_0",
-  "lesson-02": "https://youtube.com/shorts/0LTC19UGARU",
-  "lesson-03": "https://youtube.com/shorts/byta0hjwCn0",
-  "lesson-04": "https://youtube.com/shorts/FdUEpYjbHAg",
-  "lesson-05": "https://youtube.com/shorts/MpAxRoitDCc",
-  "lesson-06": "https://youtube.com/shorts/cFjfwzdms14",
-  "lesson-07": "https://youtube.com/shorts/KHrsXugoQoM",
-  "lesson-08": "https://youtube.com/shorts/7pTZB6vsHz0",
-  "lesson-10": "https://youtube.com/shorts/H74tg7ypOS4",
-  "lesson-11": "https://youtube.com/shorts/_bbBKRNIWVE",
-  "lesson-09": "https://youtube.com/shorts/0oAFKjZh_VQ"
- },
- "2026-10-31-0900-tutorial-09-futures": {
-  "youtube": "https://youtu.be/3SCOM5EXYz0"
- },
- "youtube-en": {
-  "playlist": "MatrixCEX User Guide | Step by Step",
-  "01-signup": "https://youtu.be/daIji8tIL2E",
-  "01-signup-short": "https://youtube.com/shorts/1SdomSGnKNw",
-  "02-kyc": "https://youtu.be/6VhwrzbDTd0",
-  "02-kyc-short": "https://youtube.com/shorts/Hou8L5N34qQ",
-  "03-2fa": "https://youtu.be/pnj5tnuBYHw",
-  "03-2fa-short": "https://youtube.com/shorts/Ytz6GF2wIR4"
- }
+  "2026-10-27-1200-tutorial-01-account": {
+    "youtube": "https://youtu.be/DwiAhPDJiHc"
+  },
+  "2026-10-27-1900-tutorial-02-kyc": {
+    "youtube": "https://youtu.be/imkXt5yFOk4"
+  },
+  "2026-10-28-1200-tutorial-03-2fa": {
+    "youtube": "https://youtu.be/CZLh2HWdt4U"
+  },
+  "2026-10-28-1900-tutorial-04-first-deposit": {
+    "youtube": "https://youtu.be/fjHgvVPjyKI"
+  },
+  "2026-10-29-1200-tutorial-05-first-withdrawal": {
+    "youtube": "https://youtu.be/ldSGDm2KvEY"
+  },
+  "2026-10-29-1900-tutorial-06-p2p-merchant": {
+    "youtube": "https://youtu.be/LaqGOLvmJMA"
+  },
+  "2026-10-30-1200-tutorial-07-funding-methods": {
+    "youtube": "https://youtu.be/he7sz1dSuDw"
+  },
+  "2026-10-30-1900-tutorial-08-spot": {
+    "youtube": "https://youtu.be/6wuPF2U6UHY"
+  },
+  "2026-10-31-1200-tutorial-10-convert": {
+    "youtube": "https://youtu.be/UaW7sv7yoIA"
+  },
+  "2026-10-31-1900-tutorial-11-referral": {
+    "youtube": "https://youtu.be/OleR41ou6Ag"
+  },
+  "youtube-shorts": {
+    "feature-p2p": "https://youtube.com/shorts/y_JcgoXh2SQ",
+    "feature-security": "https://youtube.com/shorts/U_hACh1Cqhw",
+    "feature-contest": "https://youtube.com/shorts/5eUTudDSJfY",
+    "feature-tools": "https://youtube.com/shorts/8ribt6ItTM0",
+    "lesson-01": "https://youtube.com/shorts/LcivuiLjs_0",
+    "lesson-02": "https://youtube.com/shorts/0LTC19UGARU",
+    "lesson-03": "https://youtube.com/shorts/byta0hjwCn0",
+    "lesson-04": "https://youtube.com/shorts/FdUEpYjbHAg",
+    "lesson-05": "https://youtube.com/shorts/MpAxRoitDCc",
+    "lesson-06": "https://youtube.com/shorts/cFjfwzdms14",
+    "lesson-07": "https://youtube.com/shorts/KHrsXugoQoM",
+    "lesson-08": "https://youtube.com/shorts/7pTZB6vsHz0",
+    "lesson-10": "https://youtube.com/shorts/H74tg7ypOS4",
+    "lesson-11": "https://youtube.com/shorts/_bbBKRNIWVE",
+    "lesson-09": "https://youtube.com/shorts/0oAFKjZh_VQ"
+  },
+  "2026-10-31-0900-tutorial-09-futures": {
+    "youtube": "https://youtu.be/3SCOM5EXYz0"
+  },
+  "youtube-en": {
+    "playlist": "MatrixCEX User Guide | Step by Step",
+    "01-signup": "https://youtu.be/daIji8tIL2E",
+    "01-signup-short": "https://youtube.com/shorts/1SdomSGnKNw",
+    "02-kyc": "https://youtu.be/6VhwrzbDTd0",
+    "02-kyc-short": "https://youtube.com/shorts/Hou8L5N34qQ",
+    "03-2fa": "https://youtu.be/pnj5tnuBYHw",
+    "03-2fa-short": "https://youtube.com/shorts/Ytz6GF2wIR4",
+    "04-deposit": "https://youtu.be/snY-UyBhaiM",
+    "04-deposit-short": "https://youtube.com/shorts/ybUanYjBNXo",
+    "05-withdraw": "https://youtu.be/21uuqz9WCfI",
+    "05-withdraw-short": "https://youtube.com/shorts/H6AGWRj0BZM",
+    "06-p2p-merchant": "https://youtu.be/wvto139PcTE",
+    "06-p2p-merchant-short": "https://youtube.com/shorts/eZkpDri-HoM",
+    "07-funding": "https://youtu.be/nkFrcgV8edo",
+    "07-funding-short": "https://youtube.com/shorts/uTr106QRars",
+    "08-spot": "https://youtu.be/P5ZnbpuWtHg",
+    "08-spot-short": "https://youtube.com/shorts/8ZI4Q9KedT0",
+    "09-futures": "https://youtu.be/j9lQKQlCmJo",
+    "09-futures-short": "https://youtube.com/shorts/XdfCSlSgrgY",
+    "10-convert": "https://youtu.be/fdn6QibkJ_k",
+    "10-convert-short": "https://youtube.com/shorts/e_gjd4TRWVU"
+  }
 }
