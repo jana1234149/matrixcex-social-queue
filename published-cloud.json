@@ -91,20 +91,27 @@
     },
     "ar_c1-join": "https://youtu.be/26QF_akm0Ps",
     "ar_c1-join-short": "https://youtube.com/shorts/y6wLdWtx_nU",
-    "ar_c2-rules": "https://youtu.be/8HA8RXZ3qyQ",
-    "ar_c2-rules-short": "https://youtube.com/shorts/mULt6a3iCBE",
+    "ar_c2-rules": "https://youtu.be/vk4ztcmhu98",
+    "ar_c2-rules-short": "https://youtube.com/shorts/pXwwvuAhqAQ",
     "ar_c3-board": "https://youtu.be/hRLwzWu9mtQ",
     "ar_c3-board-short": "https://youtube.com/shorts/MmpViRKsvCk",
     "ar_c4-start-short": "https://youtube.com/shorts/eHB1LiICP_M",
-    "ar_c4-close-short": "https://youtube.com/shorts/KrHbdEJVswo",
+    "ar_c4-close-short": "private 2026-10-29 (registration-close countdown no longer true): https://youtube.com/shorts/KrHbdEJVswo",
     "en_c1-join": "https://youtu.be/0tzXQOBiQyo",
     "en_c1-join-short": "https://youtube.com/shorts/PErtWT7hh1Y",
-    "en_c2-rules": "https://youtu.be/aNvi-FKV2gs",
-    "en_c2-rules-short": "https://youtube.com/shorts/YOWKBtacYVk",
+    "en_c2-rules": "https://youtu.be/YHW-odnsiW0",
+    "en_c2-rules-short": "https://youtube.com/shorts/zxroFqqeKOA",
     "en_c3-board": "https://youtu.be/Uj_Bct3KPIA",
     "en_c3-board-short": "https://youtube.com/shorts/CsJN_WAdPNU",
     "en_c4-start-short": "https://youtube.com/shorts/obMYcG02iIU",
-    "en_c4-close-short": "https://youtube.com/shorts/DjzvaRuihXU",
-    "uploaded": "2026-10-29, public, Studio channel UCpLsAe7i43n04UF4frsX8Eg; no social posts queued yet"
+    "en_c4-close-short": "private 2026-10-29 (registration-close countdown no longer true): https://youtube.com/shorts/DjzvaRuihXU",
+    "uploaded": "2026-10-29, public, Studio channel UCpLsAe7i43n04UF4frsX8Eg; no social posts queued yet",
+    "private_old": {
+      "ar_c2-rules": "https://youtu.be/8HA8RXZ3qyQ",
+      "ar_c2-rules-short": "https://youtube.com/shorts/mULt6a3iCBE",
+      "en_c2-rules": "https://youtu.be/aNvi-FKV2gs",
+      "en_c2-rules-short": "https://youtube.com/shorts/YOWKBtacYVk",
+      "why": "2026-10-29: said registration closes 20 Nov; replaced by re-voiced versions (joining open until the contest ends, ID verification required to join), same playlist positions"
+    }
   }
 }
