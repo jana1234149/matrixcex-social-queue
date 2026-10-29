@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-01-2100-english-tutorial-01",
+  "at": "2026-11-01T21:00:00+03:00",
+  "targets": [
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "en": "🎓 Matrix Exchange user guide (English)\nLesson 01: Creating your account\n\nStep by step: e-mail and country of residence, the activation link, then signing in.\n\nReal screens from the platform with a demo account (English voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-01-en.mp4",
+  "media_type": "video",
+  "pin": false
+}

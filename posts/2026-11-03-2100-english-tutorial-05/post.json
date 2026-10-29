@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-03-2100-english-tutorial-05",
+  "at": "2026-11-03T21:00:00+03:00",
+  "targets": [
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "en": "🎓 Matrix Exchange user guide (English)\nLesson 05: Your first withdrawal\n\nNetwork, address and amount, and how to follow the withdrawal in your history.\n\nReal screens from the platform with a demo account (English voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-05-en.mp4",
+  "media_type": "video",
+  "pin": false
+}

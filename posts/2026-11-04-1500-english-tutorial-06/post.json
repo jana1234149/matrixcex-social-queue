@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-04-1500-english-tutorial-06",
+  "at": "2026-11-04T15:00:00+03:00",
+  "targets": [
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "en": "🎓 Matrix Exchange user guide (English)\nLesson 06: Becoming an approved P2P merchant\n\nThe P2P center, adding a payment account, the merchant application and posting your first ad.\n\nReal screens from the platform with a demo account (English voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-06-en.mp4",
+  "media_type": "video",
+  "pin": false
+}

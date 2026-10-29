@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-06-1500-english-tutorial-10",
+  "at": "2026-11-06T15:00:00+03:00",
+  "targets": [
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "en": "🎓 Matrix Exchange user guide (English)\nLesson 10: Instant convert\n\nChoose «from» and «to», review, confirm: all on one screen.\n\nReal screens from the platform with a demo account (English voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-10-en.mp4",
+  "media_type": "video",
+  "pin": false
+}

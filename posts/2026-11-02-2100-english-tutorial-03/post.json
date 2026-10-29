@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-02-2100-english-tutorial-03",
+  "at": "2026-11-02T21:00:00+03:00",
+  "targets": [
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "en": "🎓 Matrix Exchange user guide (English)\nLesson 03: Turning on two-factor authentication\n\nLink your account to Google Authenticator in a minute; it is required before your first withdrawal.\n\nReal screens from the platform with a demo account (English voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-03-en.mp4",
+  "media_type": "video",
+  "pin": false
+}

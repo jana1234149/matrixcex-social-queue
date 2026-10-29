@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-04-2100-english-tutorial-07",
+  "at": "2026-11-04T21:00:00+03:00",
+  "targets": [
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "en": "🎓 Matrix Exchange user guide (English)\nLesson 07: Three ways to fund your account\n\nP2P in Syrian pounds with platform escrow, crypto deposits, and bank deposits (coming soon).\n\nReal screens from the platform with a demo account (English voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-07-en.mp4",
+  "media_type": "video",
+  "pin": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-05-2100-english-tutorial-09",
+  "at": "2026-11-05T21:00:00+03:00",
+  "targets": [
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "en": "🎓 Matrix Exchange user guide (English)\nLesson 09: Futures (demo)\n\nStart demo trading, choose the contract and leverage, open a position with take profit and stop loss, then close it. Demo money only.\n\nReal screens from the platform with a demo account (English voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-09-en.mp4",
+  "media_type": "video",
+  "pin": false
+}

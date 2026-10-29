@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-01-1500-english-intro",
+  "at": "2026-11-01T15:00:00+03:00",
+  "targets": [
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "en": "🎬 MatrixCEX in 80 seconds (English)\n\nA simple, secure crypto trading platform by Matrix Groups: P2P with platform escrow, spot trading tools, layered security, and Arabic, English and Turkish.\n\nCrypto trading involves risk; educational content, not investment advice.\n🔗 matrixcex.com"
+  },
+  "media": "intro-en.mp4",
+  "media_type": "video",
+  "pin": false
+}

@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-02-1500-english-tutorial-02",
+  "at": "2026-11-02T15:00:00+03:00",
+  "targets": [
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "en": "🎓 Matrix Exchange user guide (English)\nLesson 02: Identity verification (KYC)\n\nDocument photo, a short selfie video and the review, plus what each level unlocks.\n\nReal screens from the platform with a demo account (English voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-02-en.mp4",
+  "media_type": "video",
+  "pin": false
+}

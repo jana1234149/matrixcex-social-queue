@@ -1,0 +1,14 @@
+{
+  "id": "2026-11-03-1500-english-tutorial-04",
+  "at": "2026-11-03T15:00:00+03:00",
+  "targets": [
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "en": "🎓 Matrix Exchange user guide (English)\nLesson 04: Your first deposit\n\nChoose the network, create your own deposit address and follow the confirmations until your balance arrives.\n\nReal screens from the platform with a demo account (English voice-over).\n🔗 matrixcex.com"
+  },
+  "media": "lesson-04-en.mp4",
+  "media_type": "video",
+  "pin": false
+}
