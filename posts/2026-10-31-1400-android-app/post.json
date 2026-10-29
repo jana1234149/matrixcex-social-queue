@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-31-1400-android-app",
+  "at": "2026-10-31T14:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main",
+    "telegram:-1001549262082",
+    "telegram:-1001413343814"
+  ],
+  "text": {
+    "ar": "📱 تطبيق MatrixCEX الرسمي لأندرويد متاح الآن\n\nتطبيق أندرويد الرسمي يُحمَّل من matrixcex.com/app فقط، والصفحة تشرح خطوات التثبيت.\n\nالتطبيق القديم على Google Play لا يتبع المنصة الجديدة، فاحذفه من هاتفك.\n\nلا نرسل ملف التطبيق أو رابطه في رسالة خاصة أبداً.\n\nتطبيق iPhone غير متوفر حالياً، واستخدم الموقع matrixcex.com من المتصفح.\n\n🔗 matrixcex.com/app",
+    "en": "📱 The official MatrixCEX Android app is available now\n\nThe official Android app is downloaded from matrixcex.com/app only; the page explains how to install it.\n\nThe old app on Google Play is not part of the new platform, so delete it from your phone.\n\nWe never send the app file or its link in a private message.\n\nAn iPhone app is not available yet; use matrixcex.com in your browser.\n\n🔗 matrixcex.com/app"
+  },
+  "x": "📱 تطبيق MatrixCEX الرسمي لأندرويد متاح الآن\nيُحمَّل من matrixcex.com/app فقط، والصفحة تشرح خطوات التثبيت.\nالتطبيق القديم على Google Play لا يتبع المنصة الجديدة، فاحذفه من هاتفك.\nلا نرسل ملف التطبيق أو رابطه في رسالة خاصة أبداً.",
+  "media": null,
+  "media_type": null,
+  "pin": true
+}
