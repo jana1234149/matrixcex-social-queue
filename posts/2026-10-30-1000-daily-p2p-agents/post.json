@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-30-1000-daily-p2p-agents",
+  "at": "2026-10-30T10:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🤝 هل لديك خبرة سابقة كتاجر P2P؟ انضم إلى وكلاء MatrixCEX في بلدك.\n\n📝 طلبات وكلاء P2P مفتوحة وتُجمع الآن: اكتب /p2p في المحادثة الخاصة مع @MatrixCex_bot. التفعيل الفعلي بعد إطلاق المنصة وفتح الإيداع، وكل قبول بقرار الإدارة بعد المراجعة.\n\n🎁 يحصل وكيل P2P على: صفر رسوم P2P لأول 3 أشهر ثم رسوم مخفضة حسب المستوى، وشارة \"وكيل معتمد\"، وعمولة 20% من رسوم تداول من يجلبهم لمدة 6 أشهر، ودعم مباشر.\n\n🔗 matrixcex.com",
+    "en": "🤝 Already experienced as a P2P trader? Join the MatrixCEX agents in your country.\n\n📝 P2P agent applications are open now: send /p2p in a private chat with @MatrixCex_bot. Activation comes after launch and the opening of deposits, and every approval is the management's decision after review.\n\n🎁 A P2P agent gets: zero P2P fees for the first 3 months then reduced fees by level, an \"approved agent\" badge, 20% of the trading fees of the users they bring for 6 months, and direct support.\n\n🔗 matrixcex.com"
+  },
+  "x": "🤝 طلبات وكلاء P2P مفتوحة وتُجمع الآن: اكتب /p2p في المحادثة الخاصة مع @MatrixCex_bot. التفعيل الفعلي بعد إطلاق المنصة وفتح الإيداع، وكل قبول بقرار الإدارة بعد المراجعة.\n\n🔗 matrixcex.com",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}
