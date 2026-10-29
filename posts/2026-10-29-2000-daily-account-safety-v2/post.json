@@ -1,0 +1,16 @@
+{
+  "id": "2026-10-29-2000-daily-account-safety-v2",
+  "at": "2026-10-29T20:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook"
+  ],
+  "text": {
+    "ar": "🔐 إدارة ماتركس لا تبدأ مراسلتك أبداً، ولا تطلب كلمة مرورك أو رموز المصادقة أو مفاتيح محفظتك أو عبارة الاسترداد تحت أي ظرف.\n\n✅ الحسابات الرسمية: الموقع matrixcex.com، وفيسبوك facebook.com/matrixexchangeglobal، والبوت @MatrixCex_bot، ويوتيوب https://www.youtube.com/@matrix-exchange ، وX: @MatrixExchange5. أي حساب آخر يدّعي تمثيل ماتركس غير رسمي.\n\n🛡️ لن يطلب منك أي شخص من فريق ماتركس تحويل أموال أو مشاركة مفاتيح محفظتك.\n\n🔗 matrixcex.com",
+    "en": "🔐 The Matrix team never messages you first and never asks for your password, 2FA codes, wallet keys or recovery phrase, under any circumstances.\n\n✅ Official accounts: the site matrixcex.com, Facebook facebook.com/matrixexchangeglobal, the bot @MatrixCex_bot, YouTube https://www.youtube.com/@matrix-exchange and X @MatrixExchange5. Any other account claiming to represent Matrix is not official.\n\n🛡️ No one from the Matrix team will ever ask you to transfer money or share your wallet keys.\n\n🔗 matrixcex.com"
+  },
+  "media": null,
+  "media_type": null,
+  "pin": false
+}

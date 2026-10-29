@@ -1,5 +1,5 @@
 {
-  "id": "2026-11-11-1800-contest-board-reminder",
+  "id": "2026-11-11-1800-contest-board-reminder-v2",
   "at": "2026-11-11T18:00:00+03:00",
   "targets": [
     "telegram:ar",
