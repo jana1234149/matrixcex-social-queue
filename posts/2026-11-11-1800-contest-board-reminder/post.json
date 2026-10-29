@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-11-1800-contest-board-reminder",
+  "at": "2026-11-11T18:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "📊 لوحة الترتيب الحية في مسابقة ماتركس للتداول التجريبي\n\nلدخول الترتيب: 30 صفقة على الأقل موزعة على 10 أيام مختلفة، والصفقة التي تقل قيمتها الاسمية عن 500 USDT تجريبي لا تُحتسب.\n\nلوحة ترتيب حية على المنصة، ويظهر كل مشارك برقم مسابقة مثل MX-123456 بدل اسمه. النتيجة النهائية بعد مراجعة الإدارة.\n\n🎥 فيديو الانضمام: https://youtu.be/26QF_akm0Ps\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "📊 The live leaderboard of the Matrix demo trading contest\n\nTo be ranked you need at least 30 trades on 10 different days. A trade with a notional value under 500 demo USDT does not count.\n\nThere is a live leaderboard on the platform; each contestant shows as a contest number like MX-123456 instead of a name. Final results come after the management's review.\n\n🎥 How to join video: https://youtu.be/0tzXQOBiQyo\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "📊 لوحة الترتيب الحية في مسابقة ماتركس للتداول التجريبي\nلوحة ترتيب حية على المنصة، ويظهر كل مشارك برقم مسابقة مثل MX-123456 بدل اسمه. النتيجة النهائية بعد مراجعة الإدارة.\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": "ar_c3-board-short.mp4",
+  "media_type": "video",
+  "pin": false
+}

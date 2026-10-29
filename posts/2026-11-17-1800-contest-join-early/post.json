@@ -1,0 +1,20 @@
+{
+  "id": "2026-11-17-1800-contest-join-early",
+  "at": "2026-11-17T18:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main",
+    "telegram:-1001549262082",
+    "telegram:-1001413343814"
+  ],
+  "text": {
+    "ar": "📅 ما زال الانضمام مفتوحاً، والأفضل الانضمام مبكراً\n\nلدخول الترتيب: 30 صفقة على الأقل موزعة على 10 أيام مختلفة، والصفقة التي تقل قيمتها الاسمية عن 500 USDT تجريبي لا تُحتسب.\n\nالانضمام على matrixcex.com مفتوح من 26 أكتوبر حتى نهاية المسابقة، والتداول من 5 نوفمبر حتى 4 ديسمبر 2026. التأهل يحتاج تداولاً في 10 أيام مختلفة، فالأفضل الانضمام مبكراً.\n\nتفعيل المصادقة الثنائية (2FA) شرط للانضمام إلى المسابقة، من إعدادات حسابك على matrixcex.com.\n\n🎥 فيديو الانضمام: https://youtu.be/26QF_akm0Ps\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "📅 Joining is still open, and joining early is best\n\nTo be ranked you need at least 30 trades on 10 different days. A trade with a notional value under 500 demo USDT does not count.\n\nJoining on matrixcex.com is open from 26 October until the contest ends; trading runs from 5 November to 4 December 2026. Qualifying needs trades on 10 different days, so join early.\n\nTurning on two-factor authentication (2FA) is required to join the contest, from your account settings on matrixcex.com.\n\n🎥 How to join video: https://youtu.be/0tzXQOBiQyo\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "📅 ما زال الانضمام مفتوحاً، والأفضل الانضمام مبكراً\nمسابقة ماتركس للتداول التجريبي مجانية، لتداول العقود الآجلة التجريبية على MatrixCEX، والجهة المنظمة ماتركس غروب.\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": "ar_c1-join-short.mp4",
+  "media_type": "video",
+  "pin": false
+}

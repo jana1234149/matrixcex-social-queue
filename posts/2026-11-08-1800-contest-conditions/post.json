@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-08-1800-contest-conditions",
+  "at": "2026-11-08T18:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🏆\n\nالانضمام إلى قناتَي تلغرام الرسميتين شرط للمشاركة: قناة المنصة t.me/Matrixcex وقناة Matrix Token t.me/matrixxtoken، ويجب أن يبقى المتسابق عضواً فيهما حتى مراجعة الفائزين.\n\nكتابة رقم المسابقة (مثل MX-123456) في تعليق على فيديو المسابقة الرسمي «كيف تنضم» https://youtu.be/26QF_akm0Ps (النسخة الإنكليزية https://youtu.be/0tzXQOBiQyo) شرط للمشاركة، ويُتحقق منه عند مراجعة الفائزين.\n\nمتابعة حساباتنا الأخرى (الاشتراك في يوتيوب، وفيسبوك، وإنستغرام، وX) مستحبة ليصلك كل جديد، وليست شرطاً.\n\n🎥 https://youtu.be/26QF_akm0Ps\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "✅ A reminder of the conditions for the Matrix demo trading contest\n\nJoining our two official Telegram channels is required: the platform channel t.me/Matrixcex and the Matrix Token channel t.me/matrixxtoken, and you must still be a member when the winners are reviewed.\n\nPosting your contest number (like MX-123456) in a comment on the official contest video «How to join» https://youtu.be/0tzXQOBiQyo (Arabic version https://youtu.be/26QF_akm0Ps) is required; it is checked when the winners are reviewed.\n\nFollowing our other accounts (subscribing on YouTube, Facebook, Instagram and X) is welcome so you get every update, but it is not required.\n\n🎥 How to join video: https://youtu.be/0tzXQOBiQyo\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "✅ تذكير بشروط المشاركة في مسابقة ماتركس للتداول التجريبي\nتفعيل المصادقة الثنائية (2FA) شرط للانضمام إلى المسابقة، من إعدادات حسابك على matrixcex.com.\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": "ar_c1-join-short.mp4",
+  "media_type": "video",
+  "pin": false
+}

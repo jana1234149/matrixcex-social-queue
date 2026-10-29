@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-02-1800-contest-leaderboard",
+  "at": "2026-11-02T18:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🏆\n\nلدخول الترتيب: 30 صفقة على الأقل موزعة على 10 أيام مختلفة، والصفقة التي تقل قيمتها الاسمية عن 500 USDT تجريبي لا تُحتسب.\n\nالترتيب بنسبة الربح على 10,000، والمراكز المفتوحة تُحسب بسعر العلامة لحظة النهاية.\n\nلوحة ترتيب حية على المنصة، ويظهر كل مشارك برقم مسابقة مثل MX-123456 بدل اسمه. النتيجة النهائية بعد مراجعة الإدارة.\n\n🎥 https://youtu.be/26QF_akm0Ps\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "🏆\n\nTo be ranked you need at least 30 trades on 10 different days. A trade with a notional value under 500 demo USDT does not count.\n\nRanking is by the gain on 10,000; open positions count at the mark price at the end.\n\nThere is a live leaderboard on the platform; each contestant shows as a contest number like MX-123456 instead of a name. Final results come after the management's review.\n\n🎥 https://youtu.be/0tzXQOBiQyo\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "📊 كيف يُحسب ترتيبك في مسابقة ماتركس للتداول التجريبي؟\nلوحة ترتيب حية على المنصة، ويظهر كل مشارك برقم مسابقة مثل MX-123456 بدل اسمه. النتيجة النهائية بعد مراجعة الإدارة.\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": "ar_c3-board.mp4",
+  "media_type": "video",
+  "pin": false
+}

@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-01-1800-contest-rules-prizes",
+  "at": "2026-11-01T18:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🏆\n\nلدخول الترتيب: 30 صفقة على الأقل موزعة على 10 أيام مختلفة، والصفقة التي تقل قيمتها الاسمية عن 500 USDT تجريبي لا تُحتسب.\n\nالجوائز مجموعها 2,000 دولار على 33 فائزاً بعملة USDT: الأول 500، الثاني 300، الثالث 200، من الرابع حتى الثالث عشر 50 لكل فائز، ومن الرابع عشر حتى الثالث والثلاثين 25 لكل فائز.\n\nالمشاركة مجانية، ولا تُقبل أي إيداعات حقيقية طوال المسابقة.\n\nالرصيد الافتراضي 10,000 USDT تجريبي في حساب العقود الآجلة. لا قيمة مالية له، ولا يُسحب ولا يُحوَّل ولا يُباع، ولا يُعاد شحنه خلال المسابقة.\n\n🎥 https://youtu.be/26QF_akm0Ps\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "📋 The Matrix demo trading contest: rules and prizes\n\nTo be ranked you need at least 30 trades on 10 different days. A trade with a notional value under 500 demo USDT does not count.\n\nPrizes total $2,000 across 33 winners, in USDT: 1st 500, 2nd 300, 3rd 200, places 4 to 13 get 50 each, places 14 to 33 get 25 each.\n\nTaking part is free, and no real deposits are accepted during the contest.\n\nThe virtual balance is 10,000 demo USDT in the futures account. It has no money value, cannot be withdrawn, transferred or sold, and is not topped up during the contest.\n\n🎥 How to join video: https://youtu.be/0tzXQOBiQyo\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "📋 قواعد مسابقة ماتركس للتداول التجريبي وجوائزها\nالمشاركة مجانية، ولا تُقبل أي إيداعات حقيقية طوال المسابقة.\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": "ar_c2-rules.mp4",
+  "media_type": "video",
+  "pin": false
+}

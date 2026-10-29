@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-20-1800-contest-fair-play",
+  "at": "2026-11-20T18:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "⚖️ قواعد اللعب النظيف في مسابقة ماتركس للتداول التجريبي\n\nالعمر 18 عاماً فأكثر، وحساب واحد فقط لكل شخص، ببريد إلكتروني ورقم هاتف حقيقيين يملكهما.\n\nلا يحق لموظفي ماتركس غروب وأقاربهم من الدرجة الأولى الفوز بالجوائز.\n\nيُستبعد: أكثر من حساب، أو حسابات بأسماء آخرين، أو تحويل الأرباح بين حسابات، أو استغلال خلل تقني، أو برامج تداول آلية أو API دون إذن مكتوب، أو وثائق مزورة. قرار الإدارة نهائي.\n\nمن يجد خللاً تقنياً يبلّغ عنه على info@matrixgroups.net ولا يستغله، وقد يحصل على مكافأة تقديرية.\n\n🎥 فيديو الانضمام: https://youtu.be/26QF_akm0Ps\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "⚖️ Fair-play rules of the Matrix demo trading contest\n\nYou must be 18 or older, with one account per person, using a real e-mail address and phone number of your own.\n\nMatrix Groups staff and their first-degree relatives cannot win prizes.\n\nDisqualified: more than one account, accounts in other people's names, moving profits between accounts, exploiting a bug, trading bots or API without written permission, or forged documents. The management's decision is final.\n\nIf you find a technical bug, report it to info@matrixgroups.net and do not exploit it; you may receive a discretionary reward.\n\n🎥 How to join video: https://youtu.be/0tzXQOBiQyo\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "⚖️ قواعد اللعب النظيف في مسابقة ماتركس للتداول التجريبي\nلوحة ترتيب حية على المنصة، ويظهر كل مشارك برقم مسابقة مثل MX-123456 بدل اسمه. النتيجة النهائية بعد مراجعة الإدارة.\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": "ar_c2-rules.mp4",
+  "media_type": "video",
+  "pin": false
+}

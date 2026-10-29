@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-14-1800-contest-prizes-payout",
+  "at": "2026-11-14T18:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🏆\n\nالجوائز مجموعها 2,000 دولار على 33 فائزاً بعملة USDT: الأول 500، الثاني 300، الثالث 200، من الرابع حتى الثالث عشر 50 لكل فائز، ومن الرابع عشر حتى الثالث والثلاثين 25 لكل فائز.\n\nتُعلن النتائج خلال 7 أيام من النهاية، ويُكمل الفائز إجراءات استلام الجائزة خلال 14 يوماً وإلا انتقلت الجائزة للتالي. تُضاف الجائزة USDT إلى محفظته على المنصة فور فتح الإيداع والسحب، بلا أي شرط تداول.\n\n🎥 https://youtu.be/26QF_akm0Ps\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "🏆 Prizes of the Matrix demo trading contest and how they are paid\n\nPrizes total $2,000 across 33 winners, in USDT: 1st 500, 2nd 300, 3rd 200, places 4 to 13 get 50 each, places 14 to 33 get 25 each.\n\nResults are announced within 7 days of the end; a winner completes the prize claim steps within 14 days or the prize passes to the next. The prize is added in USDT to the winner's wallet on the platform once deposits and withdrawals open, with no trading condition.\n\n🎥 How to join video: https://youtu.be/0tzXQOBiQyo\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "🏆 جوائز مسابقة ماتركس للتداول التجريبي وطريقة استلامها\nالمشاركة مجانية، ولا تُقبل أي إيداعات حقيقية طوال المسابقة.\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": "ar_c2-rules-v.mp4",
+  "media_type": "video",
+  "pin": false
+}

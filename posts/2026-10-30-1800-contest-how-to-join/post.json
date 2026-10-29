@@ -1,0 +1,20 @@
+{
+  "id": "2026-10-30-1800-contest-how-to-join",
+  "at": "2026-10-30T18:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main",
+    "telegram:-1001549262082",
+    "telegram:-1001413343814"
+  ],
+  "text": {
+    "ar": "🏆 كيف تنضم إلى مسابقة ماتركس للتداول التجريبي؟ فيديو خطوة بخطوة\n\nمسابقة ماتركس للتداول التجريبي مجانية، لتداول العقود الآجلة التجريبية على MatrixCEX، والجهة المنظمة ماتركس غروب.\n\nتفعيل المصادقة الثنائية (2FA) شرط للانضمام إلى المسابقة، من إعدادات حسابك على matrixcex.com.\n\nالتحقق من الهوية إلزامي للانضمام: هوية سارية وصورة شخصية مطابقة من صفحة التحقق في المنصة، ويُراجع كل طلب قبل قبوله. حساب واحد فقط لكل هوية.\n\nالانضمام إلى قناتَي تلغرام الرسميتين شرط للمشاركة: قناة المنصة t.me/Matrixcex وقناة Matrix Token t.me/matrixxtoken، ويجب أن يبقى المتسابق عضواً فيهما حتى مراجعة الفائزين.\n\nكتابة رقم المسابقة (مثل MX-123456) في تعليق على فيديو المسابقة الرسمي «كيف تنضم» https://youtu.be/26QF_akm0Ps (النسخة الإنكليزية https://youtu.be/0tzXQOBiQyo) شرط للمشاركة، ويُتحقق منه عند مراجعة الفائزين.\n\n🎥 فيديو الانضمام: https://youtu.be/26QF_akm0Ps\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "🏆 How to join the Matrix demo trading contest: a step-by-step video\n\nThe Matrix demo trading contest is free: demo futures trading on MatrixCEX, organised by Matrix Groups.\n\nTurning on two-factor authentication (2FA) is required to join the contest, from your account settings on matrixcex.com.\n\nIdentity verification is required to join: a valid ID and a matching selfie on the platform's verification page; every request is reviewed before approval. One account per identity.\n\nJoining our two official Telegram channels is required: the platform channel t.me/Matrixcex and the Matrix Token channel t.me/matrixxtoken, and you must still be a member when the winners are reviewed.\n\nPosting your contest number (like MX-123456) in a comment on the official contest video «How to join» https://youtu.be/0tzXQOBiQyo (Arabic version https://youtu.be/26QF_akm0Ps) is required; it is checked when the winners are reviewed.\n\n🎥 How to join video: https://youtu.be/0tzXQOBiQyo\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "🏆 كيف تنضم إلى مسابقة ماتركس للتداول التجريبي؟ فيديو خطوة بخطوة\nمسابقة ماتركس للتداول التجريبي مجانية، لتداول العقود الآجلة التجريبية على MatrixCEX، والجهة المنظمة ماتركس غروب.\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": "ar_c1-join.mp4",
+  "media_type": "video",
+  "pin": false
+}
