@@ -1,0 +1,18 @@
+{
+  "id": "2026-10-31-1000-daily-launch-facts",
+  "at": "2026-10-31T10:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🚀 ماذا تعرف عن إطلاق MatrixCEX؟\n\n📅 الإطلاق الحقيقي وفتح الإيداع والسحب بعد انتهاء المسابقة، والموعد يُعلن على الحسابات الرسمية.\n\n🌐 عند الإطلاق يكون التداول بعملة USDT، وشبكات الإيداع: إيثريوم، ترون، وBNB Smart Chain.\n\n💡 رسوم التداول الحقيقي تُعلن قبل الإطلاق.\n\n🪪 التحقق من الهوية إلزامي للانضمام إلى المسابقة، وللتداول الحقيقي وللسحب.\n\n🔗 matrixcex.com",
+    "en": "🚀 What to know about the MatrixCEX launch\n\n📅 The real launch, with deposits and withdrawals, comes after the contest ends. The date will be announced on the official accounts.\n\n🌐 At launch, trading is in USDT. Deposit networks: Ethereum, Tron and BNB Smart Chain.\n\n💡 Real trading fees will be announced before launch.\n\n🪪 Identity verification is required to join the contest, and for real trading and withdrawals.\n\n🔗 matrixcex.com"
+  },
+  "x": "🚀 الإطلاق الحقيقي وفتح الإيداع والسحب بعد انتهاء المسابقة، والموعد يُعلن على الحسابات الرسمية.\n\n🌐 عند الإطلاق يكون التداول بعملة USDT، وشبكات الإيداع: إيثريوم، ترون، وBNB Smart Chain.\n\n🔗 matrixcex.com",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}
