@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-01-1000-daily-kyc-lesson",
+  "at": "2026-11-01T10:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🪪 خطوة مهمة: التحقق من الهوية\n\nالتحقق من الهوية إلزامي للانضمام إلى المسابقة، وللتداول الحقيقي وللسحب.\n\n📋 المطلوب: هوية سارية وصورة شخصية مطابقة من صفحة التحقق في المنصة، ويُراجع كل طلب قبل قبوله. حساب واحد فقط لكل هوية.\n\n🎬 شاهد الدرس 2 من دليل الاستخدام خطوة بخطوة على قناتنا في يوتيوب: https://www.youtube.com/@matrix-exchange\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "🪪 An important step: identity verification\n\nIdentity verification is required to join the contest, and for real trading and withdrawals.\n\n📋 What you need: a valid ID and a matching selfie on the platform's verification page; every request is reviewed before approval. One account per identity.\n\n🎬 Watch lesson 2 of the user guide, step by step, on our YouTube channel: https://www.youtube.com/@matrix-exchange\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "🪪 التحقق من الهوية إلزامي للانضمام إلى المسابقة، وللتداول الحقيقي وللسحب.\n🎬 الدرس 2 من دليل الاستخدام على يوتيوب: https://www.youtube.com/@matrix-exchange\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}
