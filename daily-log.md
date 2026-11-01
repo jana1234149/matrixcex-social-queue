@@ -10,3 +10,4 @@
 - 2026-10-31 | posts/2026-10-31-1730-android-app-fb | Facebook only: repeat of the 14:00 Android app post (Facebook tokens had stopped working; new page tokens saved 31 Oct 17:10; owner-approved)
 - 2026-11-01 | posts/2026-11-01-1000-daily-kyc-lesson | how-to tip: identity verification (KYC, CONTEST-KYC verbatim) + lesson 2 on the YouTube channel; contest ending line
 - 2026-11-02 | posts/2026-11-02-1000-daily-referral-lesson | referral: approved REFERRAL line + lesson 11 on the YouTube channel (kb)
+- 2026-11-02 | posts/2026-11-02-1400-mtix-official-scam | MTIX token post: MTIX-OFFICIAL, MTIX-SCAM verbatim (safety reminder)
