@@ -11,3 +11,4 @@
 - 2026-11-01 | posts/2026-11-01-1000-daily-kyc-lesson | how-to tip: identity verification (KYC, CONTEST-KYC verbatim) + lesson 2 on the YouTube channel; contest ending line
 - 2026-11-02 | posts/2026-11-02-1000-daily-referral-lesson | referral: approved REFERRAL line + lesson 11 on the YouTube channel (kb)
 - 2026-11-02 | posts/2026-11-02-1400-mtix-official-scam | MTIX token post: MTIX-OFFICIAL, MTIX-SCAM verbatim (safety reminder)
+- 2026-11-03 | posts/2026-11-03-1000-daily-official-accounts | official accounts list (kb.md «الحسابات الرسمية» + support e-mail)
