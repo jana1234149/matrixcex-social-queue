@@ -14,3 +14,4 @@
 - 2026-11-03 | posts/2026-11-03-1000-daily-official-accounts | official accounts list (kb.md «الحسابات الرسمية» + support e-mail)
 - 2026-11-04 | posts/2026-11-04-1000-daily-android-app | platform feature: official Android app (APP answer verbatim)
 - 2026-11-04 | posts/2026-11-04-1400-mtix-about-notransfer | MTIX token post: MTIX-ABOUT, MATRIX-2015, MTIX-NO-TRANSFER verbatim (safety reminder)
+- 2026-11-05 | posts/2026-11-05-1000-daily-contest-ready | contest: is your account ready on trading day one (CONTEST, ELIGIBILITY, TWOFA, CONTEST-KYC verbatim; contest ending line)

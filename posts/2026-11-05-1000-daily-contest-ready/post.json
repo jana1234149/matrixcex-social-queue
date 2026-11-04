@@ -1,0 +1,13 @@
+{
+  "id": "2026-11-05-1000-daily-contest-ready",
+  "at": "2026-11-05T10:00:00+03:00",
+  "targets": ["telegram:ar", "telegram:en", "facebook", "x:main"],
+  "text": {
+    "ar": "🏆 يبدأ اليوم التداول في المسابقة: هل حسابك جاهز؟\n\nمسابقة ماتركس للتداول التجريبي مجانية، لتداول العقود الآجلة التجريبية على MatrixCEX، والجهة المنظمة ماتركس غروب.\n\n👤 العمر 18 عاماً فأكثر، وحساب واحد فقط لكل شخص، ببريد إلكتروني ورقم هاتف حقيقيين يملكهما.\n\n🔐 تفعيل المصادقة الثنائية (2FA) شرط للانضمام إلى المسابقة، من إعدادات حسابك على matrixcex.com.\n\n🪪 التحقق من الهوية إلزامي للانضمام: هوية سارية وصورة شخصية مطابقة من صفحة التحقق في المنصة، ويُراجع كل طلب قبل قبوله. حساب واحد فقط لكل هوية.\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "🏆 Contest trading starts today: is your account ready?\n\nThe Matrix demo trading contest is free: demo futures trading on MatrixCEX, organised by Matrix Groups.\n\n👤 You must be 18 or older, with one account per person, using a real e-mail address and phone number of your own.\n\n🔐 Turning on two-factor authentication (2FA) is required to join the contest, from your account settings on matrixcex.com.\n\n🪪 Identity verification is required to join: a valid ID and a matching selfie on the platform's verification page; every request is reviewed before approval. One account per identity.\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "🏆 يبدأ اليوم التداول في المسابقة: هل حسابك جاهز؟\n🔐 تفعيل المصادقة الثنائية (2FA) شرط للانضمام إلى المسابقة، من إعدادات حسابك على matrixcex.com.\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}
