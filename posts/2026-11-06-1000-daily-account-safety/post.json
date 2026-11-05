@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-06-1000-daily-account-safety",
+  "at": "2026-11-06T10:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🔐 إدارة ماتركس لا تبدأ مراسلتك أبداً، ولا تطلب كلمة مرورك أو رموز المصادقة أو مفاتيح محفظتك أو عبارة الاسترداد تحت أي ظرف.\n\n🛡️ لن يطلب منك أي شخص من فريق ماتركس تحويل أموال أو مشاركة مفاتيح محفظتك.\n\n📱 لا نرسل ملف التطبيق أو رابطه في رسالة خاصة أبداً.\n\n💼 لن يُطلب منك دفع أي رسوم أو إرسال أي أموال لنقل رصيدك.\n\n📧 للتواصل الرسمي: info@matrixgroups.net\n\n🔗 matrixcex.com",
+    "en": "🔐 The Matrix team never messages you first and never asks for your password, 2FA codes, wallet keys or recovery phrase, under any circumstances.\n\n🛡️ No one from the Matrix team will ever ask you to transfer money or share your wallet keys.\n\n📱 We never send the app file or its link in a private message.\n\n💼 You will never be asked to pay any fee or send any money to move your balance.\n\n📧 Official contact: info@matrixgroups.net\n\n🔗 matrixcex.com"
+  },
+  "x": "🔐 إدارة ماتركس لا تبدأ مراسلتك أبداً، ولا تطلب كلمة مرورك أو رموز المصادقة أو مفاتيح محفظتك أو عبارة الاسترداد تحت أي ظرف.\n🛡️ لن يطلب منك أي شخص من فريق ماتركس تحويل أموال أو مشاركة مفاتيح محفظتك.\n🔗 matrixcex.com",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}

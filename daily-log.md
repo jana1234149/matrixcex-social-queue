@@ -29,3 +29,4 @@
 - 2026-11-06 | posts/2026-11-06-1900-fb-english-tutorial-06 | Facebook only: repeat of 2026-11-04-1500-english-tutorial-06 (page tokens were invalidated 2-5 Nov; renewed 5 Nov 15:40; owner-approved)
 - 2026-11-06 | posts/2026-11-06-2200-fb-english-tutorial-07 | Facebook only: repeat of 2026-11-04-2100-english-tutorial-07 (page tokens were invalidated 2-5 Nov; renewed 5 Nov 15:40; owner-approved)
 - 2026-11-06 | posts/2026-11-06-2230-fb-english-tutorial-08 | Facebook only: repeat of 2026-11-05-1500-english-tutorial-08 (page tokens were invalidated 2-5 Nov; renewed 5 Nov 15:40; owner-approved)
+- 2026-11-06 | posts/2026-11-06-1000-daily-account-safety | account safety (approved SECURITY, MTIX-NO-TRANSFER, APP, OLD-BALANCES, SUPPORT sentences)
