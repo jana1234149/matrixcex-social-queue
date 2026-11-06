@@ -31,3 +31,4 @@
 - 2026-11-06 | posts/2026-11-06-2230-fb-english-tutorial-08 | Facebook only: repeat of 2026-11-05-1500-english-tutorial-08 (page tokens were invalidated 2-5 Nov; renewed 5 Nov 15:40; owner-approved)
 - 2026-11-06 | posts/2026-11-06-1000-daily-account-safety | account safety (approved SECURITY, MTIX-NO-TRANSFER, APP, OLD-BALANCES, SUPPORT sentences)
 - 2026-11-07 | posts/2026-11-07-1000-daily-p2p-agent-needs | P2P agents: what is required (kb.md «وكلاء P2P» requirements without deposit amounts; P2P-APPLY verbatim)
+- 2026-11-07 | posts/2026-11-07-1400-mtix-stopped-scam | MTIX token post (approved MTIX, MTIX-SCAM sentences)

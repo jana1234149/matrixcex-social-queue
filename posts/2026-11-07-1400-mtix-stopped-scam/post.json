@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-07-1400-mtix-stopped-scam",
+  "at": "2026-11-07T14:00:00+03:00",
+  "targets": [
+    "facebook:mtix",
+    "x:mtix",
+    "telegram:-1001549262082",
+    "telegram:-1001413343814"
+  ],
+  "text": {
+    "ar": "⏸️ تداول MTIX متوقف حالياً بقرار من الإدارة. يُفتح عند اعتماد MTIX وسيلة دفع في مستشفيات تتعاقد معها ماتركس، ثم تُدرج على MatrixCEX بعد اكتمال التحضير، والموعد يُعلن على الحسابات الرسمية فقط.\n⚠️ أي عرض لبيع MTIX أو شرائها خارج المنصة احتيال.\n🔗 matrixcex.com",
+    "en": "⏸️ MTIX trading is stopped for now by decision of the management. It opens when MTIX is adopted as a payment method in hospitals Matrix contracts with, then it will be listed on MatrixCEX once ready; the date is announced on the official accounts only.\n⚠️ Any offer to buy or sell MTIX outside the platform is a scam.\n🔗 matrixcex.com"
+  },
+  "media": null,
+  "media_type": null,
+  "pin": false
+}
