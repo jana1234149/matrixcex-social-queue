@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-07-1000-daily-p2p-agent-needs",
+  "at": "2026-11-07T10:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🤝 تريد أن تصبح وكيل P2P في بلدك؟ هذا هو المطلوب:\n\n✅ تحقق كامل من الهوية: هوية سارية، صورة شخصية، إثبات عنوان، مقابلة فيديو قصيرة.\n✅ طرق دفع باسمك فقط، ولا دفعات من طرف ثالث.\n✅ خبرة سابقة كتاجر P2P: 100 طلب مكتمل على الأقل بنسبة إتمام 95% أو أكثر.\n✅ وديعة ضمان تُحجز على المنصة بعد فتح الإيداع، حسب المستوى.\n✅ الرد على الطلبات خلال 15 دقيقة في ساعات عملك المعلنة، والتزام مكتوب بقواعد مكافحة غسل الأموال.\n\n📝 طلبات وكلاء P2P مفتوحة وتُجمع الآن: اكتب /p2p في المحادثة الخاصة مع @MatrixCex_bot. التفعيل الفعلي بعد إطلاق المنصة وفتح الإيداع، وكل قبول بقرار الإدارة بعد المراجعة.\n\n🔗 matrixcex.com",
+    "en": "🤝 Want to become a P2P agent in your country? Here is what is required:\n\n✅ Full identity checks: a valid ID, a selfie, proof of address and a short video interview.\n✅ Payment methods in your own name only, no third-party payments.\n✅ Previous experience as a P2P trader: at least 100 completed orders at a completion rate of 95% or more.\n✅ A security deposit held on the platform after deposits open, depending on the level.\n✅ Replies to orders within 15 minutes during your declared working hours, and a written anti-money-laundering commitment.\n\n📝 P2P agent applications are open now: send /p2p in a private chat with @MatrixCex_bot. Activation comes after launch and the opening of deposits, and every approval is the management's decision after review.\n\n🔗 matrixcex.com"
+  },
+  "x": "🤝 طلبات وكلاء P2P مفتوحة وتُجمع الآن: اكتب /p2p في المحادثة الخاصة مع @MatrixCex_bot. المطلوب: تحقق كامل من الهوية، وطرق دفع باسمك فقط، وخبرة سابقة كتاجر P2P.\n\n🔗 matrixcex.com",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}
