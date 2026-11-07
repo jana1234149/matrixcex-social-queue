@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-08-1000-daily-2fa-lesson",
+  "at": "2026-11-08T10:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🔐 نصيحة اليوم: احمِ حسابك بالمصادقة الثنائية (2FA)\n\nتفعيل المصادقة الثنائية (2FA) شرط للانضمام إلى المسابقة، من إعدادات حسابك على matrixcex.com.\n\n📱 اربط حسابك بتطبيق Google Authenticator خلال دقيقة، وهي مطلوبة قبل أول سحب.\n\n🎬 شاهد الدرس 3 من دليل الاستخدام خطوة بخطوة على قناتنا في يوتيوب: https://www.youtube.com/@matrix-exchange\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "🔐 Today's tip: protect your account with two-factor authentication (2FA)\n\nTurning on two-factor authentication (2FA) is required to join the contest, from your account settings on matrixcex.com.\n\n📱 Link your account to Google Authenticator in a minute; it is required before your first withdrawal.\n\n🎬 Watch lesson 3 of the user guide, step by step, on our YouTube channel: https://www.youtube.com/@matrix-exchange\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "🔐 تفعيل المصادقة الثنائية (2FA) شرط للانضمام إلى المسابقة، من إعدادات حسابك على matrixcex.com.\n🎬 الدرس 3 من دليل الاستخدام على يوتيوب: https://www.youtube.com/@matrix-exchange\n🔗 matrixcex.com\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}

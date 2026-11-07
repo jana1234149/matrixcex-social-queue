@@ -32,3 +32,4 @@
 - 2026-11-06 | posts/2026-11-06-1000-daily-account-safety | account safety (approved SECURITY, MTIX-NO-TRANSFER, APP, OLD-BALANCES, SUPPORT sentences)
 - 2026-11-07 | posts/2026-11-07-1000-daily-p2p-agent-needs | P2P agents: what is required (kb.md «وكلاء P2P» requirements without deposit amounts; P2P-APPLY verbatim)
 - 2026-11-07 | posts/2026-11-07-1400-mtix-stopped-scam | MTIX token post (approved MTIX, MTIX-SCAM sentences)
+- 2026-11-08 | posts/2026-11-08-1000-daily-2fa-lesson | how-to tip: 2FA (approved TWOFA sentence + lesson 3 from tutorial-03, YouTube channel link; contest disclaimer)
