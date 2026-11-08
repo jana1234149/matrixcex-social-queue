@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-22-1900-contest-prize-checks",
+  "at": "2026-11-22T19:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main",
+    "telegram:-1001413343814"
+  ],
+  "text": {
+    "ar": "✅ انضم الآن، وجهّز حسابك للجائزة قبل النهاية\n\nالانضمام إلى المسابقة مفتوح لكل حساب مفعّل: سجّل على matrixcex.com، ثم العقود الآجلة ← المسابقة ← «انضم»، وابدأ التداول فوراً دون تحقق مسبق.\n\nالتحقق من الهوية شرط لاستلام الجائزة وليس للانضمام: هوية سارية وصورة شخصية مطابقة من صفحة التحقق في المنصة، ويُراجع كل طلب قبل قبوله. حساب واحد فقط لكل هوية.\n\nتفعيل المصادقة الثنائية (2FA) شرط لاستلام جائزة المسابقة، ويمكن تفعيلها في أي وقت قبل نهايتها من إعدادات حسابك على matrixcex.com.\n\n⏳ باقي 3 أيام على 25 نوفمبر، آخر موعد للانضمام مع بقاء فرصة التأهل.\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "✅ Join now, and get your account ready for a prize before the end\n\nJoining the contest is open to every active account: sign up on matrixcex.com, then Futures → Contest → «Join», and start trading right away with no prior verification.\n\nIdentity verification is required to collect a prize, not to join: a valid ID and a matching selfie on the platform's verification page; every request is reviewed before approval. One account per identity.\n\nTwo-factor authentication (2FA) is required to collect a contest prize; you can turn it on at any time before the contest ends, from your account settings on matrixcex.com.\n\n⏳ 3 days left until 25 November, the last day to join and still qualify.\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "✅ انضم الآن، وجهّز حسابك للجائزة قبل النهاية\n\n⏳ باقي 3 أيام على 25 نوفمبر، آخر موعد للانضمام مع بقاء فرصة التأهل.\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}

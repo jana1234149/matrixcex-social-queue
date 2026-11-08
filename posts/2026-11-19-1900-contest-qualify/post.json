@@ -1,0 +1,19 @@
+{
+  "id": "2026-11-19-1900-contest-qualify",
+  "at": "2026-11-19T19:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main",
+    "telegram:-1001413343814"
+  ],
+  "text": {
+    "ar": "📈 كيف تتأهل للترتيب؟\n\nلدخول الترتيب: 30 صفقة على الأقل موزعة على 10 أيام مختلفة، والصفقة التي تقل قيمتها الاسمية عن 500 USDT تجريبي لا تُحتسب.\n\nالانضمام إلى المسابقة مفتوح لكل حساب مفعّل: سجّل على matrixcex.com، ثم العقود الآجلة ← المسابقة ← «انضم»، وابدأ التداول فوراً دون تحقق مسبق.\n\n⏳ باقي 6 أيام على 25 نوفمبر، آخر موعد للانضمام مع بقاء فرصة التأهل.\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "📈 How to qualify for the ranking\n\nTo be ranked you need at least 30 trades on 10 different days. A trade with a notional value under 500 demo USDT does not count.\n\nJoining the contest is open to every active account: sign up on matrixcex.com, then Futures → Contest → «Join», and start trading right away with no prior verification.\n\n⏳ 6 days left until 25 November, the last day to join and still qualify.\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "📈 كيف تتأهل للترتيب؟\n\n⏳ باقي 6 أيام على 25 نوفمبر، آخر موعد للانضمام مع بقاء فرصة التأهل.\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}
