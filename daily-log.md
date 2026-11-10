@@ -38,3 +38,4 @@
 - 2026-11-09 | posts/2026-11-09-1400-mtix-purpose-official | MTIX token post (approved MTIX-PURPOSE, MATRIX-2015, MTIX-OFFICIAL sentences)
 - 2026-11-10 | posts/2026-11-10-1000-daily-contest-start-guide | contest newcomer guide (approved CONTEST-OPEN, BALANCE, MINIMUMS, CONTEST-LASTDAY sentences + contest disclaimer; x: CONTEST-OPEN)
 - 2026-11-11 | posts/2026-11-11-1000-daily-official-accounts-check | official accounts check (kb.md «الحسابات الرسمية» list + OFFICIAL closing sentence; non-contest day between contest mornings; evening 18:00 is the contest board post)
+- 2026-11-10 | posts/2026-11-11-1400-mtix-about-purpose-scam | MTIX token post (approved MTIX-ABOUT, MTIX-PURPOSE, MTIX-SCAM sentences; safety reminder)
