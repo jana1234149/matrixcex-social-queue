@@ -40,3 +40,4 @@
 - 2026-11-11 | posts/2026-11-11-1000-daily-official-accounts-check | official accounts check (kb.md «الحسابات الرسمية» list + OFFICIAL closing sentence; non-contest day between contest mornings; evening 18:00 is the contest board post)
 - 2026-11-10 | posts/2026-11-11-1400-mtix-about-purpose-scam | MTIX token post (approved MTIX-ABOUT, MTIX-PURPOSE, MTIX-SCAM sentences; safety reminder)
 - 2026-11-12 | posts/2026-11-12-1000-daily-contest-channels-comment | contest newcomer steps (approved CONTEST-OPEN, CONTEST-TELEGRAM, CONTEST-COMMENT sentences + contest disclaimer; x: CONTEST-TELEGRAM; evening 19:00 is the qualify post, so no MINIMUMS here)
+- 2026-11-13 | posts/2026-11-13-1000-daily-futures-lesson | how-to tip: demo futures lesson 9 (YouTube channel link; approved RISK sentences verbatim; non-contest rotation day, evening 19:00 is the contest free-balance post)
