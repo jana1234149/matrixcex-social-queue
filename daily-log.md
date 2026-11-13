@@ -41,3 +41,4 @@
 - 2026-11-10 | posts/2026-11-11-1400-mtix-about-purpose-scam | MTIX token post (approved MTIX-ABOUT, MTIX-PURPOSE, MTIX-SCAM sentences; safety reminder)
 - 2026-11-12 | posts/2026-11-12-1000-daily-contest-channels-comment | contest newcomer steps (approved CONTEST-OPEN, CONTEST-TELEGRAM, CONTEST-COMMENT sentences + contest disclaimer; x: CONTEST-TELEGRAM; evening 19:00 is the qualify post, so no MINIMUMS here)
 - 2026-11-13 | posts/2026-11-13-1000-daily-futures-lesson | how-to tip: demo futures lesson 9 (YouTube channel link; approved RISK sentences verbatim; non-contest rotation day, evening 19:00 is the contest free-balance post)
+- 2026-11-14 | posts/2026-11-14-1000-daily-contest-trading-board | contest newcomer: how trading works (approved CONTEST-OPEN, TRADING, DEMO-FEES, BOARD sentences + contest disclaimer; x: CONTEST-OPEN; evening 18:00 is the prizes/payout post, so no prize text here)
