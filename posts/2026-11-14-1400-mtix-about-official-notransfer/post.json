@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-14-1400-mtix-about-official-notransfer",
+  "at": "2026-11-14T14:00:00+03:00",
+  "targets": [
+    "facebook:mtix",
+    "x:mtix",
+    "telegram:-1001549262082",
+    "telegram:-1001413343814"
+  ],
+  "text": {
+    "ar": "🪙 MTIX هي عملة مجموعة ماتركس على شبكة BNB Smart Chain.\n📢 المعلومات الرسمية عن MTIX تُنشر فقط على حسابات ماتركس الرسمية، ولا يوجد أي مندوب يبيعها بشكل خاص.\n🔒 لن يطلب منك أي شخص من فريق ماتركس تحويل أموال أو مشاركة مفاتيح محفظتك.\n🔗 matrixcex.com",
+    "en": "🪙 MTIX is the coin of Matrix Groups on BNB Smart Chain.\n📢 Official information about MTIX is published only on Matrix's official accounts, and there is no agent who sells it privately.\n🔒 No one from the Matrix team will ever ask you to transfer money or share your wallet keys.\n🔗 matrixcex.com"
+  },
+  "media": null,
+  "media_type": null,
+  "pin": false
+}
