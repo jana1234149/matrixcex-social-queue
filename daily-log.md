@@ -43,3 +43,4 @@
 - 2026-11-13 | posts/2026-11-13-1000-daily-futures-lesson | how-to tip: demo futures lesson 9 (YouTube channel link; approved RISK sentences verbatim; non-contest rotation day, evening 19:00 is the contest free-balance post)
 - 2026-11-14 | posts/2026-11-14-1000-daily-contest-trading-board | contest newcomer: how trading works (approved CONTEST-OPEN, TRADING, DEMO-FEES, BOARD sentences + contest disclaimer; x: CONTEST-OPEN; evening 18:00 is the prizes/payout post, so no prize text here)
 - 2026-11-13 | posts/2026-11-14-1400-mtix-about-official-notransfer | MTIX token post (approved MTIX-ABOUT, MTIX-OFFICIAL, MTIX-NO-TRANSFER sentences; safety reminder)
+- 2026-11-14 | posts/2026-11-15-1000-daily-account-safety-app | account safety + official Android app (approved SECURITY and APP sentences verbatim; x: SECURITY; non-contest rotation day, evening 19:00 is the contest prize-checks post)

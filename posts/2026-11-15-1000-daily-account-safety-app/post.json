@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-15-1000-daily-account-safety-app",
+  "at": "2026-11-15T10:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "🔐 إدارة ماتركس لا تبدأ مراسلتك أبداً، ولا تطلب كلمة مرورك أو رموز المصادقة أو مفاتيح محفظتك أو عبارة الاسترداد تحت أي ظرف.\n\n📱 تطبيق أندرويد الرسمي يُحمَّل من matrixcex.com/app فقط، والصفحة تشرح خطوات التثبيت. التطبيق القديم على Google Play لا يتبع المنصة الجديدة، فاحذفه من هاتفك. لا نرسل ملف التطبيق أو رابطه في رسالة خاصة أبداً. تطبيق iPhone غير متوفر حالياً، واستخدم الموقع matrixcex.com من المتصفح.\n\n🔗 matrixcex.com",
+    "en": "🔐 The Matrix team never messages you first and never asks for your password, 2FA codes, wallet keys or recovery phrase, under any circumstances.\n\n📱 The official Android app is downloaded from matrixcex.com/app only; the page explains how to install it. The old app on Google Play is not part of the new platform, so delete it from your phone. We never send the app file or its link in a private message. An iPhone app is not available yet; use matrixcex.com in your browser.\n\n🔗 matrixcex.com"
+  },
+  "x": "🔐 إدارة ماتركس لا تبدأ مراسلتك أبداً، ولا تطلب كلمة مرورك أو رموز المصادقة أو مفاتيح محفظتك أو عبارة الاسترداد تحت أي ظرف.\n\n🔗 matrixcex.com",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}
