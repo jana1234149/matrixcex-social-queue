@@ -9,3 +9,4 @@ Date (Istanbul) | players | ranked rows | qualified rows
 2026-11-12 | 9 | 9 | 0
 2026-11-13 | 9 | 9 | 0
 2026-11-14 | 9 | 9 | 0
+2026-11-15 | 10 | 10 | 0
