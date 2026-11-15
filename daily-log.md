@@ -45,3 +45,4 @@
 - 2026-11-13 | posts/2026-11-14-1400-mtix-about-official-notransfer | MTIX token post (approved MTIX-ABOUT, MTIX-OFFICIAL, MTIX-NO-TRANSFER sentences; safety reminder)
 - 2026-11-14 | posts/2026-11-15-1000-daily-account-safety-app | account safety + official Android app (approved SECURITY and APP sentences verbatim; x: SECURITY; non-contest rotation day, evening 19:00 is the contest prize-checks post)
 - 2026-11-15 | posts/2026-11-16-1000-daily-contest-free-eligibility | contest newcomer: free entry, eligibility, risk (approved FREE, ELIGIBILITY, RISK sentences verbatim + contest disclaimer; x: FREE + RISK; evening 19:00 is the join-one-tap post, so no CONTEST-OPEN here)
+- 2026-11-15 | posts/2026-11-16-1400-mtix-about-purpose-2015 | MTIX token post (approved MTIX-ABOUT, MTIX-PURPOSE, MATRIX-2015 sentences; previous post carried the safety reminder)
