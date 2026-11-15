@@ -44,3 +44,4 @@
 - 2026-11-14 | posts/2026-11-14-1000-daily-contest-trading-board | contest newcomer: how trading works (approved CONTEST-OPEN, TRADING, DEMO-FEES, BOARD sentences + contest disclaimer; x: CONTEST-OPEN; evening 18:00 is the prizes/payout post, so no prize text here)
 - 2026-11-13 | posts/2026-11-14-1400-mtix-about-official-notransfer | MTIX token post (approved MTIX-ABOUT, MTIX-OFFICIAL, MTIX-NO-TRANSFER sentences; safety reminder)
 - 2026-11-14 | posts/2026-11-15-1000-daily-account-safety-app | account safety + official Android app (approved SECURITY and APP sentences verbatim; x: SECURITY; non-contest rotation day, evening 19:00 is the contest prize-checks post)
+- 2026-11-15 | posts/2026-11-16-1000-daily-contest-free-eligibility | contest newcomer: free entry, eligibility, risk (approved FREE, ELIGIBILITY, RISK sentences verbatim + contest disclaimer; x: FREE + RISK; evening 19:00 is the join-one-tap post, so no CONTEST-OPEN here)
