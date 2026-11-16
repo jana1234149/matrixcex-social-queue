@@ -46,3 +46,4 @@
 - 2026-11-14 | posts/2026-11-15-1000-daily-account-safety-app | account safety + official Android app (approved SECURITY and APP sentences verbatim; x: SECURITY; non-contest rotation day, evening 19:00 is the contest prize-checks post)
 - 2026-11-15 | posts/2026-11-16-1000-daily-contest-free-eligibility | contest newcomer: free entry, eligibility, risk (approved FREE, ELIGIBILITY, RISK sentences verbatim + contest disclaimer; x: FREE + RISK; evening 19:00 is the join-one-tap post, so no CONTEST-OPEN here)
 - 2026-11-15 | posts/2026-11-16-1400-mtix-about-purpose-2015 | MTIX token post (approved MTIX-ABOUT, MTIX-PURPOSE, MATRIX-2015 sentences; previous post carried the safety reminder)
+- 2026-11-16 | posts/2026-11-17-1000-daily-p2p-agent-gets | P2P agents: what an agent gets + how to apply (approved P2P-GETS, P2P-APPLY sentences verbatim; x: P2P-APPLY; non-contest rotation day, evening 18:00 is the contest join-early post)
