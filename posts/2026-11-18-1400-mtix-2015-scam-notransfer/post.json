@@ -1,0 +1,17 @@
+{
+  "id": "2026-11-18-1400-mtix-2015-scam-notransfer",
+  "at": "2026-11-18T14:00:00+03:00",
+  "targets": [
+    "facebook:mtix",
+    "x:mtix",
+    "telegram:-1001549262082",
+    "telegram:-1001413343814"
+  ],
+  "text": {
+    "ar": "🤝 تعمل مجموعة ماتركس في تنسيق علاج زراعة الأعضاء منذ عام 2015.\n⚠️ أي عرض لبيع MTIX أو شرائها خارج المنصة احتيال.\n🔒 لن يطلب منك أي شخص من فريق ماتركس تحويل أموال أو مشاركة مفاتيح محفظتك.\n🔗 matrixcex.com",
+    "en": "🤝 Matrix Groups has worked in coordinating organ transplant treatment since 2015.\n⚠️ Any offer to buy or sell MTIX outside the platform is a scam.\n🔒 No one from the Matrix team will ever ask you to transfer money or share your wallet keys.\n🔗 matrixcex.com"
+  },
+  "media": null,
+  "media_type": null,
+  "pin": false
+}

@@ -48,3 +48,4 @@
 - 2026-11-15 | posts/2026-11-16-1400-mtix-about-purpose-2015 | MTIX token post (approved MTIX-ABOUT, MTIX-PURPOSE, MATRIX-2015 sentences; previous post carried the safety reminder)
 - 2026-11-16 | posts/2026-11-17-1000-daily-p2p-agent-gets | P2P agents: what an agent gets + how to apply (approved P2P-GETS, P2P-APPLY sentences verbatim; x: P2P-APPLY; non-contest rotation day, evening 18:00 is the contest join-early post)
 - 2026-11-17 | posts/2026-11-18-1000-daily-contest-balance-lastday | contest newcomer: demo balance + last day to qualify (approved BALANCE, CONTEST-LASTDAY sentences verbatim + contest disclaimer; x: CONTEST-LASTDAY; RANKING sentence dropped: redlines flags it; evening 19:00 is the prizes post)
+- 2026-11-17 | posts/2026-11-18-1400-mtix-2015-scam-notransfer | MTIX token post (approved MATRIX-2015, MTIX-SCAM, MTIX-NO-TRANSFER sentences; safety reminder after a post without one)
