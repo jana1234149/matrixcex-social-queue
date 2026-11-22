@@ -1,0 +1,18 @@
+{
+  "id": "2026-11-23-1000-daily-contest-trading-rules",
+  "at": "2026-11-23T10:00:00+03:00",
+  "targets": [
+    "telegram:ar",
+    "telegram:en",
+    "facebook",
+    "x:main"
+  ],
+  "text": {
+    "ar": "⚙️📊\n\nالتداول عقود آجلة دائمة بـ USDT، بهامش معزول، ورافعة من 1× حتى 20× حسب سقف كل سوق. التصفية تلقائية عند هامش الصيانة.\n\nالرسوم التجريبية: 0.02% للأوامر المحددة التي تضيف سيولة، و0.05% للأوامر الفورية.\n\n🎯\n\nلدخول الترتيب: 30 صفقة على الأقل موزعة على 10 أيام مختلفة، والصفقة التي تقل قيمتها الاسمية عن 500 USDT تجريبي لا تُحتسب.\n\n⚠️\n\nتداول العقود الآجلة بالرافعة عالي المخاطر وقد يؤدي إلى خسارة كامل رأس المال. الأرباح غير مضمونة.\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+    "en": "⚙️📊\n\nTrading is USDT perpetual futures, isolated margin, leverage from 1x to 20x up to each market's cap. Liquidation is automatic at maintenance margin.\n\nDemo fees: 0.02% for limit orders that add liquidity and 0.05% for market orders.\n\n🎯\n\nTo be ranked you need at least 30 trades on 10 different days. A trade with a notional value under 500 demo USDT does not count.\n\n⚠️\n\nLeveraged futures trading is high risk and can lose all of your capital. Profits are not guaranteed.\n\n🔗 matrixcex.com\n\nAn educational demo contest, not investment advice."
+  },
+  "x": "🎯 لدخول الترتيب: 30 صفقة على الأقل موزعة على 10 أيام مختلفة، والصفقة التي تقل قيمتها الاسمية عن 500 USDT تجريبي لا تُحتسب.\n\n🔗 matrixcex.com\n\nالمسابقة تعليمية تجريبية وليست نصيحة استثمارية",
+  "media": null,
+  "media_type": null,
+  "pin": false
+}

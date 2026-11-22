@@ -52,3 +52,4 @@
 - 2026-11-18 | posts/2026-11-19-1000-daily-referral-lesson-11 | how-to tip: referral programme, lesson 11 (kb.md referral line + approved REFERRAL sentence verbatim; non-contest rotation day after the 18 Nov contest morning; evening 19:00 is the contest qualify post)
 - 2026-11-19 | posts/2026-11-20-1000-daily-contest-join-steps | contest newcomer: how to join + the two entry conditions (approved CONTEST-OPEN, CONTEST-TELEGRAM, CONTEST-COMMENT sentences verbatim + contest disclaimer; x: CONTEST-OPEN; evening 18:00 is the fair-play post)
 - 2026-11-21 | posts/2026-11-22-1000-daily-official-accounts-safety | official accounts + account safety (approved OFFICIAL, SECURITY, SUPPORT sentences verbatim; x: OFFICIAL; non-contest rotation day after the 20 Nov contest morning; evening 19:00 is the contest prize-checks post)
+- 2026-11-23 | posts/2026-11-23-1000-daily-contest-trading-rules | contest: trading rules, demo fees, minimums, risk
