@@ -54,3 +54,4 @@
 - 2026-11-21 | posts/2026-11-22-1000-daily-official-accounts-safety | official accounts + account safety (approved OFFICIAL, SECURITY, SUPPORT sentences verbatim; x: OFFICIAL; non-contest rotation day after the 20 Nov contest morning; evening 19:00 is the contest prize-checks post)
 - 2026-11-23 | posts/2026-11-23-1000-daily-contest-trading-rules | contest: trading rules, demo fees, minimums, risk
 - 2026-11-22 | posts/2026-11-23-1400-mtix-about-purpose-official | MTIX token post (approved MTIX-ABOUT, MTIX-PURPOSE, MTIX-OFFICIAL sentences; previous post carried the safety reminder)
+- 2026-11-24 | posts/2026-11-25-1000-daily-launch-what-to-expect | platform at launch (approved PLATFORM, LAUNCH, NETWORKS, KYC sentences verbatim; x: LAUNCH + NETWORKS; non-contest rotation day after the 23 Nov contest morning; evening 19:00 is the contest last-day post)
