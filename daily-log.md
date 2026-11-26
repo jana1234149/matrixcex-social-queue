@@ -57,3 +57,4 @@
 - 2026-11-24 | posts/2026-11-25-1000-daily-launch-what-to-expect | platform at launch (approved PLATFORM, LAUNCH, NETWORKS, KYC sentences verbatim; x: LAUNCH + NETWORKS; non-contest rotation day after the 23 Nov contest morning; evening 19:00 is the contest last-day post)
 - 2026-11-24 | posts/2026-11-25-1400-mtix-about-scam-notransfer | MTIX token post (approved MTIX-ABOUT, MTIX-SCAM, MTIX-NO-TRANSFER sentences; safety reminder after the 23 Nov post without one)
 - 2026-11-25 | posts/2026-11-26-1000-daily-android-app | platform feature: official Android app (approved APP sentence verbatim; x: APP without the iPhone line; campaign ended 25 Nov, normal rotation; 13:00 is the futures video 4)
+- 2026-11-26 | posts/2026-11-27-1000-daily-kyc-how | platform feature: identity verification how-to (approved KYC sentence verbatim + kb.md requirements line; YouTube channel link; contest disclaimer; normal rotation after the campaign)
